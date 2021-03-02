@@ -1,0 +1,6 @@
+node_modules/
+ca-certificate.crt
+.env
+credentials.json
+yarn.lock
+ca_cert.crt
